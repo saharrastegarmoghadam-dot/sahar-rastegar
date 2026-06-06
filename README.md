@@ -5,32 +5,56 @@ Aspiring Data Analyst | Data Scientist | Machine Learning Enthusiast
 
 ## About Me
 
-I enjoy building machine learning models and analyzing data to solve real-world problems. I have experience with Python, data analysis, and predictive modeling projects.
+I am a data-driven professional with experience in financial services, analytics, and business problem-solving. I enjoy using data to identify trends, generate insights, and support decision-making.
 
-## Skills
+Currently, I am expanding my technical skills in:
 
 - Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Machine Learning
+- SQL
 - Data Analysis
 - Data Visualization
+- Business Analytics
+
+## Technical Skills
+
+- Python
 - SQL
+- Pandas
+- Matplotlib
+- SQLite
+- APIs
 - Git & GitHub
+- Microsoft Excel
 
 ## Featured Projects
 
-### 🏠 House Price Prediction
-Machine learning model for predicting house prices using regression techniques.
+### 📊 Netflix Data Analysis
+Analyzed Netflix content data using Python, Pandas, and Matplotlib to identify trends, popular genres, and content distribution.
 
-### 📊 Data Analysis Projects
-Data cleaning, analysis, and visualization using Python and Pandas.
+### 📈 Sales Dashboard
+Built a sales analysis dashboard to explore product performance, regional sales, and business insights.
 
-### 📈 Data Visualization
-Creating charts and dashboards to communicate insights effectively.
+### 🗄️ SQL Sales Analysis
+Designed and queried a SQLite database using SQL to analyze sales data and generate business insights.
 
-## Contact
+### 🌤️ Weather App
+Developed a Python application that retrieves real-time weather data using an external API.
+
+## Education
+
+Master of Data Science 
+
+## Career Interests
+
+- Data Analyst
+- Business Analyst
+- Reporting Analyst
+- Financial Analyst
+- Analytics Internships
+
+
+
+## Contact me
 
 📧 Email: saharrastegarmoghadam@gmail.com
 
