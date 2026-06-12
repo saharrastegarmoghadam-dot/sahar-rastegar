@@ -1,61 +1,95 @@
+# Hi, I'm Sahar Rastegar Moghaddam 👋
 
-# Hi, I'm Sahar 👋
+## Aspiring Data Analyst | Data Science Graduate Student | Analytics Enthusiast
 
-Aspiring Data Analyst | Data Scientist | Machine Learning Enthusiast
+I am a Data Science graduate student at Boston University with a background in financial services, customer relationship management, and data analysis. I enjoy transforming data into actionable insights and using analytical tools to support business decision-making.
 
-## About Me
+My interests include data analytics, business intelligence, machine learning, and data visualization.
 
-I am a data-driven professional with experience in financial services, analytics, and business problem-solving. I enjoy using data to identify trends, generate insights, and support decision-making.
+---
 
-Currently, I am expanding my technical skills in:
+## 🎓 Education
 
+**Boston University**  
+Master of Science in Data Science
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming & Databases
 - Python
 - SQL
-- Data Analysis
-- Data Visualization
-- Business Analytics
-
-## Technical Skills
-
-- Python
-- SQL
-- Pandas
-- Matplotlib
 - SQLite
-- APIs
+
+### Data Analysis & Visualization
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### Tools
 - Git & GitHub
 - Microsoft Excel
+- APIs
+- Jupyter Notebook
+- VS Code
 
-## Featured Projects
+### Analytics & Machine Learning
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Predictive Analytics
+- Machine Learning Fundamentals
+
+---
+
+## 📂 Featured Projects
 
 ### 📊 Netflix Data Analysis
-Analyzed Netflix content data using Python, Pandas, and Matplotlib to identify trends, popular genres, and content distribution.
+Analyzed Netflix content data using Python, Pandas, and Matplotlib to identify trends, popular genres, content growth over time, and top-producing countries.
 
 ### 📈 Sales Dashboard
-Built a sales analysis dashboard to explore product performance, regional sales, and business insights.
+Built a sales analysis dashboard using Python to evaluate product performance, regional sales trends, and key business metrics through data visualization.
 
 ### 🗄️ SQL Sales Analysis
-Designed and queried a SQLite database using SQL to analyze sales data and generate business insights.
+Designed a SQLite database and performed SQL queries to analyze sales performance, aggregate data, and generate business insights.
+
+### 📉 Customer Churn Analysis
+Analyzed a real-world telecommunications dataset to identify customer churn patterns and generate insights that can support customer retention strategies.
 
 ### 🌤️ Weather App
-Developed a Python application that retrieves real-time weather data using an external API.
+Developed a Python application that retrieves and displays real-time weather data using an external API.
 
-## Education
+---
 
-Master of Data Science 
-
-## Career Interests
+## 🎯 Career Interests
 
 - Data Analyst
 - Business Analyst
 - Reporting Analyst
 - Financial Analyst
-- Analytics Internships
+- Data Analytics Internships
+- Business Intelligence Roles
 
+---
 
+## 📈 Currently Learning
 
-## Contact me
+- Advanced SQL
+- Machine Learning
+- Data Visualization Best Practices
+- Business Intelligence & Dashboard Development
+
+---
+
+## 📫 Contact
 
 📧 Email: saharrastegarmoghadam@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/sahar-rastegar-moghaddam-0112b81ba/
+💼 LinkedIn:  
+www.linkedin.com/in/sahar-rastegar-moghaddam-0112b81ba
+
+---
+
+⭐ Feel free to explore my repositories and connect with me.
